@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Ayase - Cinema (self cover) | motion:@mokamk2/moka | camera:miiiiina_102/emasarum3(alternate cam)"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Ayase_Cinema_camera

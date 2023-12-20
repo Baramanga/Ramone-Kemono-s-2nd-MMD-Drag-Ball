@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Specialist (Never More ver.) | motion:Seto | camera:MrPolarbear"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Specialist_camera

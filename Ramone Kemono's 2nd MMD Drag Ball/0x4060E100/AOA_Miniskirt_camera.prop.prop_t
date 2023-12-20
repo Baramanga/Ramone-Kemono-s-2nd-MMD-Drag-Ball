@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"AOA - Miniskirt (Queendom ver.) | motion:Natsumi-san | camera:000MMD"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName AOA_Miniskirt_camera

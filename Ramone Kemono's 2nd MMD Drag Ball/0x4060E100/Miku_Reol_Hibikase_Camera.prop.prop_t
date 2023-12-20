@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Hibikase - Giga/Reol (Miku cover) | motion:Seto/Degica | camera+facials:seitsuki"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Miku_Reol_Hibikase_Camera

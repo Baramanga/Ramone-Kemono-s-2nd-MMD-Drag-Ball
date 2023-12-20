@@ -1,0 +1,64 @@
+anim Specialist_camera "Specialist camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Specialist_camera"
+	end
+end
+
+anim AOA_Miniskirt_camera "AOA Miniskirt camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "AOA_Miniskirt_camera"
+	end
+end
+
+setf Cinemaaltcam 0.9
+anim Ayase_Cinema_camera "Ayase Cinema camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1-$Cinemaaltcam
+		animation "Ayase_Cinema_camera"
+	end
+	
+	choice -probability $Cinemaaltcam
+		animation "Ayase_Cinema_camera_alternate"
+	end
+end
+
+anim Miku_Reol_Hibikase_Camera "Miku Reol Hibikase Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Reol_Hibikase_Camera"
+	end
+end
+
+anim Miku_MARETU_BrainRevolutionGirl_camera "Miku MARETU BrainRevolutionGirl camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_MARETU_BrainRevolutionGirl_camera"
+	end
+end
+
+anim 40mP_LoveTrial_camera "40mP LoveTrial camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "40mP_LoveTrial_camera"
+	end
+end

@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Love Trial (by 40mP/40meterP) | motion:SEGA | facials:Seto | camera: 7seven"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName 40mP_LoveTrial_camera

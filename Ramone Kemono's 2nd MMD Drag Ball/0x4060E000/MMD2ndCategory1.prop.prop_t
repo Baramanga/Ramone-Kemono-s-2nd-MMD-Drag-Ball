@@ -1,0 +1,10 @@
+keys editorAnimInfo
+	Specialist_camera
+	AOA_Miniskirt_camera
+	Ayase_Cinema_camera
+	Miku_Reol_Hibikase_Camera
+	Miku_MARETU_BrainRevolutionGirl_camera
+	40mP_LoveTrial_camera
+end
+key editorAnimPanelIcon rupaul_icon2
+int32 editorAnimPanelOrder 14
