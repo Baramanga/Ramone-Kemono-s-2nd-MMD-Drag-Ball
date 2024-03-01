@@ -1,0 +1,9 @@
+keys editorAnimInfo
+	Bayonetta_Lets_Dance_Boys_camera
+	Miku_Popipo_Camera
+	LukaLukaNightFever_Camera
+	daraku_GEDO_Camera
+	Miku_LamazeP_Ai_no_Uta_camera
+end
+key editorAnimPanelIcon rupaul_icon2
+int32 editorAnimPanelOrder 25

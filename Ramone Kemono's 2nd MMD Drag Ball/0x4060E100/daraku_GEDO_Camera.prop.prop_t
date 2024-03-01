@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"daraku - GEDO (Miku) | motion:doco_PwP (Kaku) | camera:SvaliN"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName daraku_GEDO_Camera

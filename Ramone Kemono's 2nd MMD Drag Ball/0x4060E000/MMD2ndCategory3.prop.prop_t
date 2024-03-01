@@ -1,0 +1,5 @@
+keys editorAnimInfo
+	NewJeans_Supershy_Camera
+end
+key editorAnimPanelIcon rupaul_icon2
+int32 editorAnimPanelOrder 26

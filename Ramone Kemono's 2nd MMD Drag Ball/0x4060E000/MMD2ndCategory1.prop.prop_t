@@ -7,4 +7,4 @@ keys editorAnimInfo
 	40mP_LoveTrial_camera
 end
 key editorAnimPanelIcon rupaul_icon2
-int32 editorAnimPanelOrder 14
+int32 editorAnimPanelOrder 24

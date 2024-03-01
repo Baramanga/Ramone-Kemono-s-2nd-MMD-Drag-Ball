@@ -62,3 +62,67 @@ anim 40mP_LoveTrial_camera "40mP LoveTrial camera"
 		animation "40mP_LoveTrial_camera"
 	end
 end
+
+anim Bayonetta_Lets_Dance_Boys_camera "Bayonetta Lets Dance Boys camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Bayonetta_Lets_Dance_Boys_camera"
+	end
+end
+
+anim Miku_Popipo_Camera "Miku Popipo Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Popipo_Camera"
+	end
+end
+
+anim LukaLukaNightFever_Camera "LukaLukaNightFever Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "LukaLukaNightFever_Camera"
+	end
+end
+
+anim NewJeans_Supershy_Camera "NewJeans Supershy Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "NewJeans_Supershy_Camera"
+	end
+end
+
+anim daraku_GEDO_Camera "daraku GEDO Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "daraku_GEDO_Camera"
+	end
+end
+
+setf AinoUtaalcam 0.99
+anim Miku_LamazeP_Ai_no_Uta_camera "Miku LamazeP Ai no Uta camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1-$AinoUtaalcam
+		animation "Miku_LamazeP_Ai_no_Uta_camera"
+	end
+	choice -probability $AinoUtaalcam
+		animation "Miku_LamazeP_Ai_no_Uta_camera_alt"
+	end
+end

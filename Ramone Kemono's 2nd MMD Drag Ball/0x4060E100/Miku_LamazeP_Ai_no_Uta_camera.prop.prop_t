@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Ai no Uta (Lamaze-P) | motion:Flyingspirits-P/SEGA | Facial:lightxxxgamerz_ddew13p-Flyingspirits-P/SEGA(alt) | camera:JosueMMD13/SEGA-SugarySweetRin(alt)"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Miku_LamazeP_Ai_no_Uta_camera

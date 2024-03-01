@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Luka Luka★Night Fever (.samfree) | motion:Tsubaki Touzoku(sm39404448) | camera:Tsubaki Touzoku(sm39404448)"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName LukaLukaNightFever_Camera

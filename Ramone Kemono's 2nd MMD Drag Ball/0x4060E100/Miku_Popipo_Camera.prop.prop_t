@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Popipo (LamazeP) | motion:SEGA/FlyingSpiritsP/BrandonLuna12(hand) | camera:EricTep123 (Eric-P)"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Miku_Popipo_Camera
