@@ -4,6 +4,7 @@ keys editorAnimInfo
 	LukaLukaNightFever_Camera
 	daraku_GEDO_Camera
 	Miku_LamazeP_Ai_no_Uta_camera
+	Miku_Teniwoha_SAMSA_camera
 end
 key editorAnimPanelIcon rupaul_icon2
 int32 editorAnimPanelOrder 25

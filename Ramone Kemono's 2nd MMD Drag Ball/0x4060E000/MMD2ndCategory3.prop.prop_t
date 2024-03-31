@@ -1,5 +1,6 @@
 keys editorAnimInfo
 	NewJeans_Supershy_Camera
+	Miku_Kanaria_DemonLord_camera
 end
 key editorAnimPanelIcon rupaul_icon2
 int32 editorAnimPanelOrder 26

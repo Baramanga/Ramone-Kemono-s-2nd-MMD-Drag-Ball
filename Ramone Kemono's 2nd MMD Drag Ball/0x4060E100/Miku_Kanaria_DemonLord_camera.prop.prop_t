@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Demon Lord (Kanaria) | motion:Mobius-P | facials:meion | camera:k_mmd_o"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName Miku_Kanaria_DemonLord_camera

@@ -126,3 +126,23 @@ anim Miku_LamazeP_Ai_no_Uta_camera "Miku LamazeP Ai no Uta camera"
 		animation "Miku_LamazeP_Ai_no_Uta_camera_alt"
 	end
 end
+
+anim Miku_Teniwoha_SAMSA_camera "Miku Teniwoha SAMSA camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Teniwoha_SAMSA_camera"
+	end
+end
+
+anim Miku_Kanaria_DemonLord_camera "Miku Kanaria DemonLord camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Kanaria_DemonLord_camera"
+	end
+end
