@@ -131,8 +131,10 @@ anim Miku_Teniwoha_SAMSA_camera "Miku Teniwoha SAMSA camera"
 	endMode 0
 	allowLocomotion false
 	priorityOverride 0
+	#disableToolOverlay 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
 
 	choice -probability 1
+		#animation "_final/creature/idle_gen"
 		animation "Miku_Teniwoha_SAMSA_camera"
 	end
 end
@@ -144,5 +146,49 @@ anim Miku_Kanaria_DemonLord_camera "Miku Kanaria DemonLord camera"
 
 	choice -probability 1
 		animation "Miku_Kanaria_DemonLord_camera"
+	end
+end
+
+anim MOMOLAND_BAAM_Camera "MOMOLAND BAAM Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "MOMOLAND_BAAM_Camera"
+	end
+end
+
+setf prob_1upus_cam 0#0.1
+anim SupercellRyo_WorldisMine_Camera "SupercellRyo WorldisMine Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability (1-$prob_1upus_cam)
+		animation "SupercellRyo_WorldisMine_Camera"
+	end
+	choice -probability $prob_1upus_cam
+		animation "SupercellRyo_WorldisMine_Camera_alt"
+	end
+end
+
+anim IA_Conqueror_Camera "IA Conqueror Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "IA_Conqueror_Camera"
+	end
+end
+
+anim GigaP_HachioujiP_qLeft_GimmexGimme_Camera "GigaP HachioujiP qLeft GimmexGimme Camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "GigaP_HachioujiP_qLeft_GimmexGimme_Camera"
 	end
 end

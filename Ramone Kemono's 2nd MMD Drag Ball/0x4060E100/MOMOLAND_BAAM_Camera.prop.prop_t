@@ -1,0 +1,7 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"BAAM (MOMOLAND/Ranvision Cupcakke Remix) | motion:Kimagure (extended by *cch*f*t*) | camera: *cch*f*t*"
+	#can't write the author's name because it's so bad ToT but I gotta give credits
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName MOMOLAND_BAAM_Camera

@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"Gimme x Gimme - Giga-/Hachiouji-P/q*Left | motion:Cigar | camera:Spade D"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName GigaP_HachioujiP_qLeft_GimmexGimme_Camera

@@ -1,6 +1,6 @@
 key parent 0x4060E100!RamoneButton2
 texts animButtonTooltip
-	"Samsa - Teniwoha (Miku cover) | motion:mobius-P | camera:_1upus_"
+	"Samsa - Teniwoha (Miku cover) | motion:mobius-P | camera:_1upus_ | asset:I_am_THEdragon | effect:RamoneKemono"
 end
 key editorPlayAnimButtonIcon legkick_icon2
 key editorPlayAnimName Miku_Teniwoha_SAMSA_camera

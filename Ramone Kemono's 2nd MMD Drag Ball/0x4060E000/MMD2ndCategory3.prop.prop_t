@@ -1,6 +1,10 @@
 keys editorAnimInfo
 	NewJeans_Supershy_Camera
+	MOMOLAND_BAAM_Camera
 	Miku_Kanaria_DemonLord_camera
+	SupercellRyo_WorldisMine_Camera
+	IA_Conqueror_Camera
+	GigaP_HachioujiP_qLeft_GimmexGimme_Camera
 end
 key editorAnimPanelIcon rupaul_icon2
 int32 editorAnimPanelOrder 26

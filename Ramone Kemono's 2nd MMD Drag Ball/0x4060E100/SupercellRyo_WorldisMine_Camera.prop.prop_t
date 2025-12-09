@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton2
+texts animButtonTooltip
+	"The World is Mine (Supercell/Ryo) | motion:mobius-P | Facial:qianing (Bili 30141239) | camera:qianing (Bili 30141239)/_1upus_(alt cam)"
+end
+key editorPlayAnimButtonIcon legkick_icon2
+key editorPlayAnimName SupercellRyo_WorldisMine_Camera
